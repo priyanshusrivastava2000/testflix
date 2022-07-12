@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146130846435",
+    "project_id": "testflix-55b20",
+    "storage_bucket": "testflix-55b20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146130846435:android:6d31cb85f99fa1766efbd6",
+        "android_client_info": {
+          "package_name": "com.example.project_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146130846435-oavarnu2omai8s3bv169qe9n7cjivqs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsLbpfNcRbEtEn1c77x3rQ5R5iwSrQ4TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146130846435-oavarnu2omai8s3bv169qe9n7cjivqs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
